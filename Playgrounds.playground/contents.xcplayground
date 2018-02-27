@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw'>
+    <pages>
+        <page name='InputField'/>
+        <page name='Struct vs. Classes'/>
+        <page name='Structs and Classes'/>
+        <page name='Validator example'/>
+        <page name='Validator example 2'/>
+        <page name='Validator with Result'/>
+        <page name='Validator with Rules'/>
+        <page name='URL'/>
+        <page name='Date'/>
+        <page name='IndexPath'/>
+        <page name='Dictionary and Set'/>
+        <page name='Flatmap page'/>
+        <page name='allObjects'/>
+        <page name='Map'/>
+        <page name='AdventOfCode'/>
+        <page name='Fibonacci'/>
+        <page name='Variable'/>
+        <page name='Optional String'/>
+        <page name='For loop enhanced'/>
+        <page name='is'/>
+        <page name='Subscript'/>
+    </pages>
+</playground>
