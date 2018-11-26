@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='6.0' target-platform='ios' display-mode='raw'>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
     <pages>
         <page name='InputField'/>
         <page name='Struct vs. Classes'/>
@@ -22,5 +22,44 @@
         <page name='For loop enhanced'/>
         <page name='is'/>
         <page name='Subscript'/>
+        <page name='Error'/>
+        <page name='Access'/>
+        <page name='Typealias'/>
+        <page name='Extension'/>
+        <page name='Iterator'/>
+        <page name='Localization'/>
+        <page name='Typed Images'/>
+        <page name='CGRect'/>
+        <page name='Constants'/>
+        <page name='UIAlertController'/>
+        <page name='SegmentedControl'/>
+        <page name='Codable'/>
+        <page name='Color'/>
+        <page name='inout'/>
+        <page name='map, flatmap'/>
+        <page name='contest'/>
+        <page name='if case'/>
+        <page name='parse Dictionary'/>
+        <page name='deprecations'/>
+        <page name='static let vs class let'/>
+        <page name='animation'/>
+        <page name='timePhoneNumber'/>
+        <page name='struct init with default parameter'/>
+        <page name='Person'/>
+        <page name='Functions as parameters'/>
+        <page name='Variable number of Arguments'/>
+        <page name='Simple map'/>
+        <page name='Nullable Types'/>
+        <page name='Tuple return with Deconstruct'/>
+        <page name='Composition over Inheritance'/>
+        <page name='Extensions (global scoped)'/>
+        <page name='Function types with receiver'/>
+        <page name='Collections'/>
+        <page name='Protocol with conditional conformance'/>
+        <page name='Guard'/>
+        <page name='Delegate'/>
+        <page name='DSLS'/>
+        <page name='enum with AnalyticsEvent'/>
+        <page name='enum with Result'/>
     </pages>
 </playground>

@@ -13,4 +13,6 @@ if let newString = string {
     print(newString)
 }
 
+string == nil
+
 //: [Next](@next)
